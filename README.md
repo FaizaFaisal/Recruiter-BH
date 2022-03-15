@@ -1,6 +1,6 @@
-# job_search_app
+# Job_Search & E_Recruitment App
 
-A new Flutter project.
+job seekers 
 
 ## Getting Started
 
