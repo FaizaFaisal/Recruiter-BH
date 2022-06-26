@@ -1,6 +1,6 @@
 # Job_Search & E_Recruitment App
 
-job seekers 
+Mobile App  
 
 ## Getting Started
 
