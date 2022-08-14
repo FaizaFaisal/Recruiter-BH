@@ -4,7 +4,11 @@ Mobile App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img
+  src=""
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 A few resources to get you started if this is your first Flutter project:
 
